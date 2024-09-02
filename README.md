@@ -1,7 +1,7 @@
 # Periodic_table
 This is the solution to the periodic table exercise in the relational database course of freecCodeCamp.
 Before adding the elements.sh and periodic_table.sql file we have to do some modifications to the already existing tables.
-The queries are given in the file named as sql_commands.sql.
+The queries are given in the file named as sql_commands file.
 Store elements.sh and periodic_table.sql in a folder called periodic_table.
 Then run the below git commands:
 1. git init
